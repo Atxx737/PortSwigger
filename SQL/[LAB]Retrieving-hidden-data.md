@@ -1,4 +1,5 @@
 # Lab: SQL injection vulnerability in WHERE clause allowing retrieval of hidden data
+### Link:https://portswigger.net/web-security/sql-injection/lab-retrieve-hidden-data
 ![Require of Lab](/Images/requireOfLab.png)
 
 Yêu cầu của bài lab là hiển thị tất cả các sản phẩm của bất kỳ category, kể cả đã sản phẩm được hiện thị và không được hiển thị.
