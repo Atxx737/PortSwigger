@@ -1,5 +1,5 @@
 # Lab: SQL injection vulnerability in WHERE clause allowing retrieval of hidden data
-![Require of Lab](G:\Pictures\SQL\Picture1.png)
+![Require of Lab](PortSwigger/Images/requireOfLab.png)
 
 Yêu cầu của bài lab là hiển thị tất cả các sản phẩm của bất kỳ category, kể cả đã sản phẩm được hiện thị và không được hiển thị.
 Truy cập vào bài lab ta thấy đây là 1 website bán hàng, với từng danh mục như 'Accessories' ,'Clothing, shoes and accessories', 'Corporate gifts' và 'Lifestyle'.
