@@ -6,7 +6,7 @@ Truy cập vào bài lab ta thấy đây là 1 website bán hàng, với từng 
 ![Website](/Images/Website.png)
 
 Lựa chọn mục 'Lifestyle' và thấy thanh địa chỉ hiện URL như sau:
-    'https://acba1f291e3a4993c0bd46c60095006e.web-security-academy.net/filter?category=Lifestyle'
+> 'https://acba1f291e3a4993c0bd46c60095006e.web-security-academy.net/filter?category=Lifestyle'
 Đổi thành SQL như sau: 
     SELECT * FROM category WHERE category = 'Lifestyle' AND released = 1 
 Nghĩa là ta sẽ lấy hết những sản phẩm thuộc danh mục là Lifestyle và được hiển thị.
