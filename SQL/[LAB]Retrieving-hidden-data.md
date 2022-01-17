@@ -2,10 +2,10 @@
 ![Require of Lab](/Images/requireOfLab.png)
 
 Yêu cầu của bài lab là hiển thị tất cả các sản phẩm của bất kỳ category, kể cả đã sản phẩm được hiện thị và không được hiển thị.
-Truy cập vào bài lab ta thấy đây là 1 website bán hàng, với từng danh mục như 'Accessories' ,'Clothing, shoes and accessories', 'Corporate gifts' và 'Lifestyle'.
+Truy cập vào bài lab ta thấy đây là 1 website bán hàng, với từng danh mục như `Accessories` ,`Clothing, shoes and accessories`, `Corporate gifts` và `Lifestyle`.
 ![Website](/Images/Website.png)
 
-Lựa chọn mục 'Lifestyle' và thấy thanh địa chỉ hiện URL như sau:
+Lựa chọn mục `Lifestyle` và thấy thanh địa chỉ hiện URL như sau:
 > https://acba1f291e3a4993c0bd46c60095006e.web-security-academy.net/filter?category=Lifestyle
 
 Đổi thành SQL như sau: 
