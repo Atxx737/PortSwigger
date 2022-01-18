@@ -1,4 +1,5 @@
 # Lab: SQL injection vulnerability in WHERE clause allowing retrieval of hidden data
+Ngày 17 tháng 01 năm 2021
 ### Link:https://portswigger.net/web-security/sql-injection/lab-retrieve-hidden-data
 ![Require of Lab](/Images/requireOfLab.png)
 
