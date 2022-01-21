@@ -22,7 +22,7 @@ Sau khi nghịch nghịch mấy cái URL ta có thể nhận ra rằng khác v�
 Nếu kết quả trả về là thông tin của 1 user thì đăng nhập thành công và ngược lại, đăng nhập thất bại
 
 Ở yêu cầu bài lab là đăng nhập vào website với username là `administrator`, do đó ta có thể chắc chắn rằng có một username là `administrator` trong dtb của website. 
-Dựa vào kiến thức từ bài lab trước, biết rằng dấu - - trong SQL được nhận biết là dấu hiệu của comment, do đó ta có thể lợi dụng lỗ hổng đó như sau
+Dựa vào kiến thức từ bài lab trước, biết rằng dấu -- trong SQL được nhận biết là dấu hiệu của comment, do đó ta có thể lợi dụng lỗ hổng đó như sau
 
 Ở phần đăng nhập, ta điền username là `administrator'--` và password là 1 số ký tự bất kỳ như `123`. 
 ![Login](/Images/sql2.6.png)
