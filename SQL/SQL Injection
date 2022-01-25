@@ -1,0 +1,21 @@
+- SQL Injection 
+<div align="right"> <i> Ngày 22 tháng 01 năm 2022 </i> </div>
+
+Là một kỹ thuật lợi dụng những lỗ hổng về câu truy vấn, cho phép attacker can thiệp vào các câu truy vấn của ứng dụng thực hiện với database của nó; 
+cho phép attacker xem những dữ liệu – thuộc về người dùng hoặc dữ liệu của ứng dụng thường mà họ không thể xem được. 
+Trong nhiều trường hợp, attacker có thể xóa, sửa các dữ liệu và gây ra những thay đổi bất lợi với nhà sản xuất và người sử dụng. 
+
+- Tại sao lại xảy ra lỗ hổng
+
+- Tác hại của lỗ hổng 
+
+- Demo lỗ hổng
+https://www.hacksplaining.com/exercises/sql-injection
+
+- Cách khắc phục lỗ hổng
+
+Tài liệu tham khảo
+https://www.imperva.com/learn/application-security/sql-injection-sqli/
+https://www.contrastsecurity.com/knowledge-hub/glossary/sql-injection
+https://www.netsparker.com/blog/web-security/sql-injection-vulnerability/
+
